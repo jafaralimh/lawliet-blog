@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-python_project
+django_habib
 db.sqlite3
 /static
 .DS_Store
